@@ -1,0 +1,16 @@
+.li_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.suggestion {
+  color: rgba(0, 0, 0, 0.767);
+  font-weight: bold;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.arrow {
+  width: 30px;
+  height: 30px;
+}
